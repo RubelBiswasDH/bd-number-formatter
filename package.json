@@ -1,0 +1,20 @@
+{
+  "name": "bd-number-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^11.1.5",
+    "rollup": "^4.4.1",
+    "rollup-plugin-delete": "^2.0.0",
+    "tslib": "^2.6.2"
+  }
+}
